@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# github merge conflicts
+- project: Github
+  role: trainee
+  duration : 1 week
+  url: "https://github.com/probot/probot"
+  
 # probot
 - project: probot
   role: Contributor
